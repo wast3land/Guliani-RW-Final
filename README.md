@@ -9,5 +9,5 @@ A few quick notes:
     1. Download the files from the repository as a .ZIP file and unzip them into your downloads folder. 
     2. Open up Terminal on your Mac
     3. Enter the command "cd" (without the quotes) into the Terminal
-    4. Next, enter "cd Guliani-RW-Final"
-    5.
+    4. Next, enter "cd Guliani-RW-Final" (again no quotes)
+    5. Then, enter "cd 14900 final"
