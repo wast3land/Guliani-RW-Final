@@ -18,7 +18,7 @@ A few quick notes:\
   please follow this online guide to get it installed, then do all the steps again: [https://kinsta.com/knowledgebase/install-python/](url)
 
   From there, the game should be fairly self-explanatory, but an important note, entering the command\
-  "exit" at any prompt will save the game and return you to the Command Line (do step 6 to start the game again)\
+  "exit" at any prompt will save the game and return you to the Command Line (do step 6 to start the game again)
 
   As a final note, if you do encounter any bugs that break the game, entering the command "reset" at a prompt will\
   erase your save data and start fresh game. 
