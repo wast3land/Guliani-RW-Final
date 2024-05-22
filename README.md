@@ -5,7 +5,7 @@ A few quick notes:
   we needed to properly QA test and bugfix. We should have gotten all the game-breaking ones, but it's entriely possible that you might find
   some we missed, so we thank you in advance for your patience. 
 
-  Second, the game isn't the most user friendly. It has to be run from the Command Line, preferably from a MacOS device. Here are the steps:
+  Second, the game isn't the most user friendly. It has to be run from the Command Line, preferably from a MacOS device. Here are the steps:\
     1. Download the files from the repository as a .ZIP file and unzip them into your downloads folder. 
     2. Open up Terminal on your Mac
     3. Enter the command "cd" (without the quotes) into the Terminal
