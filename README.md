@@ -1,4 +1,4 @@
-Hey Professor Jones, welcome to our final project, a text based dungeon crawler with mystery elements!\
+Hey Professor Jones, welcome to our final project, a text based dungeon crawler with mystery elements!
 
 A few quick notes:\
   First off, please excuse any bugs you might find. This project was perhaps a little too ambitious and we didn't have the all time 
