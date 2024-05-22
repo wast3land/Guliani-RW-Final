@@ -6,7 +6,7 @@ A few quick notes:\
   some we missed, so we thank you in advance for your patience.
 
   Second, the game isn't the most user friendly. It has to be run from the Command Line, preferably from a MacOS device. Here are the steps:\
-    1. Download the files from the repository as a .ZIP file and unzip them into your downloads folder.\ 
+    1. Download the files from the repository as a .ZIP file and unzip them into your downloads folder\
     2. Open up Terminal on your Mac\
     3. Enter the command "cd" (without the quotes) into the Terminal\
     4. Then, enter "cd Downloads" (no quotes)\
