@@ -20,7 +20,7 @@ A few quick notes:\
   From there, the game should be fairly self-explanatory, but an important note, entering the command\
   "exit" at any prompt will save the game and return you to the Command Line (do step 6 to start the game again)\
 
-  As a final note, if you do encounter any bugs that break the game, entering the command "reset" at a terminal will\
+  As a final note, if you do encounter any bugs that break the game, entering the command "reset" at a prompt will\
   erase your save data and start fresh game. 
 
   Any further questions, feel free to reach out to us: mrollinswaterman@uchicago.edu, guliani@uchicago.edu
