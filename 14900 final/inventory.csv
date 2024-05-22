@@ -1,0 +1,5 @@
+type,id,name,rarity,durability,damage_dice,num_damage_dice,crit,weight_class,quantity,unit_weight,unit_value
+Health_Potion,Health Potion,Health Potion,Common,10,,,,,5,0.5,8.0
+Firebomb,Firebomb,Firebomb,Uncommon,20,,,,,4,1,40
+Weapon,Long Sword,Long Sword,Common,10,8,1,2,,,,
+Armor,Leather Armor,Leather Armor,Common,10,,,,Light,,,

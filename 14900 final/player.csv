@@ -1,0 +1,2 @@
+name,level,str,dex,con,int,wis,cha,base-evasion,damage-taken-multiplier,damage-multiplier,hp,ap,evasion,max_hp,xp,gold,story_index
+New Player,1,10,10,10,10,10,10,9,1,1,10,1,9,10,0,0,0
