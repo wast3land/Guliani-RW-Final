@@ -1,7 +1,7 @@
 Hey Professor Jones, welcome to our final project, a text based dungeon crawler with mystery elements!
 
 A few quick notes:\
-  First off, please excuse any bugs you might find. This project was perhaps a little too ambitious and we didn't have the all time 
+  \tFirst off, please excuse any bugs you might find. This project was perhaps a little too ambitious and we didn't have the all time 
   we needed to properly QA test and bugfix. We should have gotten all the game-breaking ones, but it's entriely possible that you might find
   some we missed, so we thank you in advance for your patience.
 
